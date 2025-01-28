@@ -1,5 +1,8 @@
 _repo: Lotte-civili_75129
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75129-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmondo_De_Amicis
     - https://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75129#Lotte-civili
 gutenberg_issued: '2025-01-17'
 gutenberg_type: Text
 identifiers:
